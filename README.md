@@ -1,12 +1,12 @@
 # IR-Task-2
 Inverted Index with Python
 
+____________________
+
 Made by:
 
 	* Mahmoud Moahmed A
 	* Marwan Atef A
-
-______________________________
 
 	* محمود محمد عبد العزيز
 		* قسم: معلوماتية حيوية
